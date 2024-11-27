@@ -13,4 +13,4 @@ if __name__ == "__main__":
         print(colats(n))
         n+=1
         if n == 2**68:
-            print("2^68 달성")
+            print("2^68 달성!")
